@@ -13,14 +13,14 @@ An AI-powered system that analyzes, prioritizes, and generates responses for cus
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd support-ticket-system
+git clone <https://github.com/yssxr/AI-Ticket-System>
+cd AI-ticket-system
 ```
 
 2. Create and activate a virtual environment:
 ```bash
 python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
+source venv/bin/activate  
 ```
 
 3. Install dependencies:
