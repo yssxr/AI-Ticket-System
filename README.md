@@ -14,7 +14,7 @@ An AI-powered system that analyzes, prioritizes, and generates responses for cus
 1. Clone the repository:
 ```bash
 git clone <https://github.com/yssxr/AI-Ticket-System>
-cd AI-ticket-system
+cd AI-Ticket-System
 ```
 
 2. Create and activate a virtual environment:
